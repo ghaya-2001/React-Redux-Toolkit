@@ -41,4 +41,5 @@ const Counter = () => {
         </section>
     )
 }
+
 export default Counter
